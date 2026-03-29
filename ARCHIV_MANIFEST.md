@@ -10,7 +10,7 @@
 
 ## Gesicherte Dateien - Übersicht
 
-### Hauptdokumentation (12 Dateien)
+### Hauptdokumentation (14 Dateien)
 | # | Datei | Größe (geschätzt) | Letzte Änderung | Status |
 |---|-------|-------------------|-----------------|--------|
 | 1 | README.md | ~30 KB | 2026-03-28 22:30 | ✅ Vollständig |
@@ -20,11 +20,13 @@
 | 5 | EXECUTIVE_SUMMARY.md | ~10 KB | 2026-03-28 22:50 | ✅ Vollständig |
 | 6 | ARCHIV_MANIFEST.md | ~11 KB | 2026-03-28 22:55 | ✅ Vollständig |
 | 7 | CROSS_REFERENCE_vibehacker88.md | ~9 KB | 2026-03-28 23:00 | ✅ Vollständig |
-| 8 | VIDEO_ANALYSE_Lehmann.md | ~6 KB | 2026-03-28 23:45 | ✅ Vollständig |
-| 9 | VIDEO_INVENTAR.md | ~8 KB | 2026-03-29 00:00 | ✅ Vollständig |
-| 10 | VIDEO_FORENSISCHE_ANOMALIEN.md | ~7 KB | 2026-03-29 00:05 | ✅ Vollständig |
-| 11 | ARTIKEL_NETZWERK.md | ~9 KB | 2026-03-29 00:10 | ✅ Vollständig |
-| 12 | FINALER_ABSCHLUSSBERICHT.md | ~10 KB | 2026-03-29 00:30 | ✅ Vollständig |
+| 8 | CROSS_REFERENCE_hasjhanshoche.md | ~12 KB | 2026-03-29 00:35 | ✅ Vollständig |
+| 9 | VIDEO_ANALYSE_Lehmann.md | ~6 KB | 2026-03-28 23:45 | ✅ Vollständig |
+| 10 | VIDEO_INVENTAR.md | ~8 KB | 2026-03-29 00:00 | ✅ Vollständig |
+| 11 | VIDEO_FORENSISCHE_ANOMALIEN.md | ~7 KB | 2026-03-29 00:05 | ✅ Vollständig |
+| 12 | ARTIKEL_NETZWERK.md | ~9 KB | 2026-03-29 00:10 | ✅ Vollständig |
+| 13 | FINALER_ABSCHLUSSBERICHT.md | ~10 KB | 2026-03-29 00:30 | ✅ Vollständig |
+| 14 | GEZ_FINANZIERUNG_NEUBERECHNUNG.md | ~8 KB | 2026-03-29 00:35 | ✅ Vollständig |
 
 ### Persona-Recherchen (9 Dateien)
 | # | Datei | Person | Verifizierung | Status |
@@ -39,27 +41,29 @@
 | 15 | persona_joseph_schnitzler.md | Joseph Schnitzler | ⚠️ Eingeschränkt | ✅ |
 | 16 | persona_peter_dietze.md | Peter Dietze | ⚠️ Eingeschränkt | ✅ |
 
-### Quellmaterialien (2 Dateien)
+### Quellmaterialien (3 Dateien)
 | # | Datei | Typ | Größe | Herkunft | Status |
 |---|-------|-----|-------|----------|--------|
 | 17 | wal-284.html | HTML | ~450 KB | tagesschau.de | ✅ Archiviert |
 | 18 | TV-20260326-1240-1300_Robert_Marc_Lehmann_1080.mp4 | Video | 25.8 MB | GitHub/vibehacker88 | ✅ Archiviert |
+| 19 | transcript_raw.txt | Text | 46.8 KB | Whisper-Transkription | ✅ Archiviert |
 
 ---
 
 ## Gesamtstatistik
 
 ### Dateien
-- **Hauptdokumentation:** 12 Dateien
+- **Hauptdokumentation:** 14 Dateien
 - **Persona-Recherchen:** 9 Dateien
-- **Quellmaterialien:** 2 Dateien
-- **GESAMT:** 23 Dateien
+- **Quellmaterialien:** 3 Dateien
+- **GESAMT:** 26 Dateien
 
 ### Speicherplatz
-- **Geschätzte Gesamtgröße:** ~629 KB (Text) + 25.8 MB (Video)
-- **Textdokumente:** ~154 KB
+- **Geschätzte Gesamtgröße:** ~647 KB (Text) + 25.8 MB (Video) + 46.8 KB (Transkript)
+- **Textdokumente:** ~162 KB
 - **HTML-Quelle:** ~450 KB
 - **Video-Datei:** 25.8 MB
+- **Transkript:** 46.8 KB
 
 ### Verifizierungsstatus
 - **Vollständig verifiziert:** 12 Dateien (80%)
