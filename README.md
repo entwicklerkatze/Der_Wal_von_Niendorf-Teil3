@@ -114,23 +114,39 @@ SIE ALLE ZU TÄUSCHEN UND ZU VERDUMMEN!
 
 ---
 
-## 🔴 AUFRUF AN ALLE LESER
+## 🔴 AUFRUF AN ALLE LESER: VIDEO-ANALYSE
 
-### Analyse des Robert Marc Lehmann Videos
+### Beobachten Sie das Robert Marc Lehmann Video kritisch!
 
 **Datei:** `TV-20260326-1240-1300_Robert_Marc_Lehmann_1080.mp4` (lokal verfügbar)
 
-Wir rufen alle Leser auf, das Video selbst zu analysieren:
-
 > **🧠 SCHALTEN SIE IHREN KOPF EIN!**
 > 
-> Betrachten Sie das Robert Marc Lehmann Video kritisch und achten Sie auf:
-> - **Dumme Geräusche** - Unnatürliche Laute, befremdliche Äußerungen
-> - **Dämliche Schwimmbewegungen** - Unkoordinierte, merkwürdige Bewegungen im Wasser
-> - **Unnatürliches Verhalten** - Auffällige Gestik, Mimik, Körpersprache
-> - **Audio-Qualität** - Seltsame Stimmmuster, unpassende Tonlage
+> Konzentrieren Sie sich auf **Robert Marc Lehmanns Verhalten**, nicht auf Zahlen:
+> 
+> ### 🏊 BEWEGUNGEN & KÖRPERSPRACHE
+> - Wie bewegt er sich im Wasser?
+> - Ist seine Körperhaltung natürlich oder affektiert?
+> - Wie nähert er sich dem Wal?
+> 
+> ### 👐 INTERAKTION MIT DEM WAL
+> - Wie berührt er den Wal?
+> - Versucht er ihm "das Schwimmen beizubringen"?
+> - Ist seine Nähe zum Wal professionell oder unbedacht?
+> 
+> ### 🗣️ VERBALE ÄUßERUNGEN
+> - **"Haut sieht scheiße aus"** - Authentische Emotion oder gespielt?
+> - Wie äußert er sich generell?
+> - Klingt er wie ein echter Experte?
+> 
+> ### 🎭 GESAMTEINDRUCK
+> - Wirkt das Video authentisch oder inszeniert?
+> - Verhält sich Lehmann wie ein echter Meeresbiologe?
+> - Was ist **nicht** im Video (obwohl man es erwarten würde)?
 
-**Ihre Beobachtungen sind wichtig!** Dokumentieren Sie Ungewöhnlichkeiten und teilen Sie Ihre Erkenntnisse.
+**Dokumentieren Sie Ihre Beobachtungen!** Teilen Sie auf, was Ihnen auffällt - egal ob positiv oder kritisch.
+
+📄 **Detaillierte qualitative Analyse verfügbar:** `VIDEO_QUALITATIVE_ANALYSE_Lehmann.md`
 
 ---
 
